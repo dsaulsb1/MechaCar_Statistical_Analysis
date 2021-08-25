@@ -30,7 +30,7 @@
 
 ## Study Design: MechaCar vs Competition
 
-Another study that could be performed to determine is an analysis on fuel efficiency.
+Another study that could be performed to determine is an analysis on fuel efficiency. Possibly a linear regression analysis on the differences between city and highway fuel efficiency. I predict a null hypothesis highway mpg and none for city driving. for The following metrics can be included:
 
 -City/Highway fuel efficiency
 -Vehicle Statistics (type/weight)
